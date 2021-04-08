@@ -11,7 +11,7 @@ A command line utility to generate a styled HTML page with information about emp
 * To be styled correctly, the page needs the 'style.css' file in the output folder, so be sure to copy it to wherever you put the HTML file!
 
 ## Walkthrough video
-The walkthrough video is included in the project video.
+The walkthrough video is included in the project folder.
 
 ## Testing
 To run the jest tests, navigate to the project folder and enter 'npm run test'.
