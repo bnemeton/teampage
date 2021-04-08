@@ -1,0 +1,15 @@
+.manager {
+    background-color: pink;
+}
+
+.engineer {
+    background-color: lightgreen;
+}
+
+.intern {
+    background-color: lightblue;
+}
+
+.card {
+    margin: 5px;
+}

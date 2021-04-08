@@ -1,0 +1,19 @@
+{
+  "name": "teampagegen",
+  "version": "1.0.0",
+  "description": "A generator to make an HTML page to track employee information.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Brigid Winitsky",
+  "license": "UNLICENSED"
+}
